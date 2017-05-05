@@ -1,0 +1,2 @@
+# fanagen
+Fantasy name generator
